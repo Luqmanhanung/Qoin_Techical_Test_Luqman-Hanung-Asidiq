@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>automation testing for API Put Update User</description>
+   <name>PUT Update</name>
+   <tag>positiveCase</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22081db3-8fa3-429a-acb4-87c67d78a476</testCaseGuid>
+</TestCaseEntity>

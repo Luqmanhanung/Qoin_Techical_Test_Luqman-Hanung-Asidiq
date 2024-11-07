@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>automation testing for API Post Register user</description>
+   <name>POST Register Successful</name>
+   <tag>positiveCase</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2f58b7e-102f-448b-8b63-ea3bf8735a09</testCaseGuid>
+</TestCaseEntity>

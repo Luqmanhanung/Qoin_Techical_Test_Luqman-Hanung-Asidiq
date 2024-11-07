@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>automation testing for API Get list users</description>
+   <name>GET List Users</name>
+   <tag>positiveCase</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f954423-143f-4f4f-9e1e-e2531a3f0b0e</testCaseGuid>
+</TestCaseEntity>
