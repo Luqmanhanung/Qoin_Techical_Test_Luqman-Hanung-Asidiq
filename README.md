@@ -87,4 +87,4 @@ Project_Qoin_Test/
 
 1. Result Results in HTML Format
 
-![report-Testing-HTML](./img/Report Testing HTML.png)
+	![report-Testing-HTML](./img/Report1.png)
