@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>automation testing for API Post Register user</description>
-   <name>POST Register Successful</name>
+   <description>Test case for POST Register Successful</description>
+   <name>POST Register</name>
    <tag>positiveCase</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

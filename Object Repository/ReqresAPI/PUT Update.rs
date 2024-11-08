@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
-   <description></description>
+   <description>Request object for updating user data</description>
    <name>PUT Update</name>
    <tag></tag>
    <elementGuidId>2b6b615e-87a9-4af6-b79e-dd7abf015eac</elementGuidId>

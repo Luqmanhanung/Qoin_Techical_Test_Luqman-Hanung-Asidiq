@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
-   <description></description>
+   <description>Request object for fetching a single user</description>
    <name>GET Single User</name>
    <tag></tag>
    <elementGuidId>75a28207-216c-4572-bf21-6483e92b5aa8</elementGuidId>

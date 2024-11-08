@@ -5,17 +5,17 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Base URL for Reqres API  </description>
       <initValue>'https://reqres.in'</initValue>
       <name>baseUrl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Stores the user ID retrieved from API</description>
       <initValue>''</initValue>
       <name>userId</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>Email address used for registration</description>
       <initValue>''</initValue>
       <name>userEmail</name>
    </GlobalVariableEntity>

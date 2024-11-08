@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
+   <description>Test suite that includes all test cases</description>
    <name>Test All API</name>
    <tag></tag>
    <isRerun>false</isRerun>
@@ -29,7 +29,7 @@
       <guid>00245f2f-46d8-4e20-ae59-41c1812836b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/POST Register Successful</testCaseId>
+      <testCaseId>Test Cases/POST Register</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
-   <description></description>
+   <description>Request object for registering a user</description>
    <name>POST Register</name>
    <tag></tag>
    <elementGuidId>5d70d9e5-144c-4739-92bf-cd2cc833f5ce</elementGuidId>

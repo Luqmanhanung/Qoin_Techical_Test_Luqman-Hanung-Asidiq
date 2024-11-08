@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>automation testing for API Get list users</description>
+   <description>Test case for GET List Users</description>
    <name>GET List Users</name>
    <tag>positiveCase</tag>
    <comment></comment>

@@ -9,7 +9,6 @@ This repository contains an automated test suite for testing several endpoints o
 - [Getting Started](#getting-started)
 - [Test Cases](#test-cases)
 - [Running the Tests](#running-the-tests)
-- [Additional Notes](#additional-notes)
 
 ## Project Structure
 
@@ -25,14 +24,14 @@ Project_Qoin_Test/
 │   ├── GET List Users                 # Test case for GET List Users
 │   ├── GET Single User                # Test case for GET Single User
 │   ├── PUT Update                     # Test case for PUT Update
-│   └── POST Register Successful       # Test case for POST Register Successful
+│   └── POST Register 			       # Test case for POST Register Successful
 └── Test Suites/
     └── Test All API                   # Test suite that includes all test cases
 ```
 
 ## Getting Started
 
-1. **Install Katalon Studio**: Ensure Katalon Studio is installed on your computer. You can download it from the [Katalon website](https://www.katalon.com/).
+1. **Install Katalon Studio**: Ensure Katalon Studio is installed on your computer. 
 2. **Clone the Repository**: Clone this repository to your local machine using:
    ```bash
    git clone https://github.com/Luqmanhanung/Qoin_Techical_Test_Luqman-Hanung-Asidiq.git
@@ -40,14 +39,13 @@ Project_Qoin_Test/
 3. **Open the Project in Katalon Studio**: Open Katalon Studio and load the cloned project.
 
 4. **Set Global Variables**:
-   - Go to **Project > Settings > Variables** in Katalon Studio.
    - Add the following variables:
 
      | Name        | Default Value            | Description                          |
      |-------------|--------------------------|--------------------------------------|
      | `baseUrl`   | `https://reqres.in`      | Base URL for Reqres API              |
-     | `userId`    |                          | Stores the user ID retrieved from API|
-     | `userEmail` | `eve.holt@reqres.in`     | Email address used for registration  |
+     | `userId`    | ``                       | Stores the user ID retrieved from API|
+     | `userEmail` | ``     				  | Email address used for registration  |
 
 ## Test Cases
 
@@ -81,12 +79,6 @@ Project_Qoin_Test/
 
 ## Running the Tests
 
-1. **Open the Test Suite**: Navigate to `Test Suites` and select `ReqresAPISuite`.
+1. **Open the Test Suite**: Navigate to `Test Suites` and select `Test All API`.
 2. **Run the Test Suite**: Right-click on `Test All API` and select **Run** to execute all test cases.
 3. **View Results**: After execution, check the **Log Viewer** for test results. All test cases should pass if the API responds as expected.
-
-## Additional Notes
-
-- **Missing Test Object**: If you encounter an error stating that a `Test Object` is missing, verify that all required objects have been correctly created and saved in the `Object Repository`.
-- **Registration Email**: The Reqres API only allows registration using the email `eve.holt@reqres.in`. Ensure that the `userEmail` global variable is set to this email when running the `POST Register Successful` test case.
-

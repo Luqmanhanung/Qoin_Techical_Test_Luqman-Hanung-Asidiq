@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
-   <description></description>
+   <description>Request object for fetching user list</description>
    <name>GET List Users</name>
    <tag></tag>
    <elementGuidId>9c043155-389c-43ff-859a-04ddcb28f2f6</elementGuidId>
