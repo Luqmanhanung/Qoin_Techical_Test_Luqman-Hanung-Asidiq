@@ -82,3 +82,9 @@ Project_Qoin_Test/
 1. **Open the Test Suite**: Navigate to `Test Suites` and select `Test All API`.
 2. **Run the Test Suite**: Right-click on `Test All API` and select **Run** to execute all test cases.
 3. **View Results**: After execution, check the **Log Viewer** for test results. All test cases should pass if the API responds as expected.
+
+## Testing Results
+
+1. Result Results in HTML Format
+
+![report-Testing-HTML](./img/Report Testing HTML.png)
