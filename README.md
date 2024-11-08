@@ -85,6 +85,10 @@ Project_Qoin_Test/
 
 ## Testing Results
 
-1. Result Results in HTML Format
+1. Testing Result in HTML Format
 
 	![report-Testing-HTML](./img/Report1.png)
+	
+2. Testing Result in PDF Format	
+
+	![report-Testing-HTML](./img/Report2.png)
