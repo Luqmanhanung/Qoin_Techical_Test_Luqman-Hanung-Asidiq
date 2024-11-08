@@ -1,6 +1,6 @@
-
+<div align="center">
 # Reqres API Test Suite
-
+</div>
 This repository contains an automated test suite for testing several endpoints of the [Reqres API](https://reqres.in/) using Katalon Studio. The test suite includes tests for the following endpoints: `GET List Users`, `GET Single User`, `PUT Update`, and `POST Register Successful`. Katalon Studio is used as the automation tool for these API tests.
 
 ## Table of Contents
